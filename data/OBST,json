@@ -1,4 +1,4 @@
-{
+
   "nombre": "Malla Obstetricia",
   "asignaturas": [
     {"codigo":"HI-181", "nombre":"Realidad nacional y mundial", "creditos":3.0, "hp":2,"hs":0,"ht":2,"hv":0, "nivel":1, "prerrequisito":[]},
